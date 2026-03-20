@@ -1,4 +1,4 @@
-name: bloc_fx
+name: bloc_kit
 description: "A package consists of helper classes and mixins to work with bloc and cubit."
 version: 1.0.0
 repository: https://github.com/dartcoders/bloc_helpers

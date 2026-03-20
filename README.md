@@ -1,4 +1,4 @@
-# bloc_fx
+# bloc_kit
 
 A collection of helper classes, mixins, and event transformers for working with `flutter_bloc`.
 
@@ -14,7 +14,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  bloc_fx: ^1.0.0
+  bloc_kit: ^1.0.0
 ```
 
 ## Usage
