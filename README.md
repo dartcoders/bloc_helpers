@@ -1,4 +1,4 @@
-# bloc_helpers
+# bloc_utils
 
 A collection of helper classes, mixins, and event transformers for working with `flutter_bloc`.
 
@@ -14,7 +14,7 @@ Add the dependency to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  bloc_helpers: ^1.0.0 
+  bloc_utils: ^1.0.0
 ```
 
 ## Usage
